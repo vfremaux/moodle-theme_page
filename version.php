@@ -32,6 +32,6 @@
 $plugin->version      = 2013031500;
 $plugin->requires     = 2012120300;
 $plugin->component    = 'theme_page';
-$plugin->release      = '2.4.0 (Build: 2013031500)';
+$plugin->release      = '2.7.0 (Build: 2013031500)';
 $plugin->maturity     = MATURITY_STABLE;
 $plugin->dependencies = array('format_page' => 2011062802);
